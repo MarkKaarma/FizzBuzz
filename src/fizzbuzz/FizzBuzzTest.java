@@ -1,7 +1,6 @@
 package fizzbuzz;
-
+// Some new imports for Java Test Class
 import static org.junit.Assert.assertEquals;
-
 import org.junit.jupiter.api.Test;
 
 public class FizzBuzzTest {
